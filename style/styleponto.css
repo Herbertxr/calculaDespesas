@@ -1,0 +1,534 @@
+body{
+background-color:#AACCCC;
+}
+.divcenter {
+width:410px;
+height:120px;
+margin:auto;	
+border:2px solid;
+border-radius:15px;
+padding-top:15px;
+padding-bottom:0px;
+padding-left:15px;
+padding-right:10px;
+font-family:"Times New Roman", Times, serif;
+font-size:28px;
+box-shadow: 3px 3px 3px 1px #888888;
+clear:both;
+}
+
+.divLabelUm{
+border:1px solid;
+width:265px;
+height:50px;
+float:left;
+margin:0px;
+margin-top:5px;
+clear:both;
+}
+
+.divLabelDois{
+border:1px solid;
+width:265px;
+height:45px;
+float:left;
+position:relative;
+margin-top:4px;
+margin-bottom:1px;
+clear:both;
+}
+
+.divLabelQ{
+border:1px solid;
+width:265px;
+height:45px;
+float:right;
+margin-top:1px;
+clear:both;
+}
+
+.divgrande{
+    width:440px;
+    height:120px;
+    z-index: 1;
+}
+
+.divgrande6{
+    width:600px;
+    height:200px;
+    clear:both;
+}
+
+
+.divgrande2{
+    width:265px;
+    height:110px;
+    float:left;    
+    clear:both;
+}
+
+.divgrande4{
+    width:265px;
+    height:50px;
+    float:left;    
+    padding-left:10px;
+    padding-top:5px;    
+}
+
+.divgrande5{
+    padding-left:10px;
+    padding-top:5px;
+    width:265px;
+    height:50px;
+    margin-top: 5px;
+    float:left;
+    position: relative;
+        
+}
+
+
+.divgrande3{
+    width:120px;
+    height:110px;    
+    margin-right:25px;
+    float:right;           
+    position: relative;
+}
+
+.divTituloHum{
+border:0;
+margin:auto;
+margin-top:15%;
+width:390px;
+height:50px;
+text-align:center;
+}
+
+
+.divLabelsEinputs{
+width:265px;
+height:110px;
+border:1px dashed;
+margin:0px;
+float:left;
+z-index:2;
+clear:both;
+}
+
+.divBtnEntra{
+float:right;
+width:120px;
+height:110px;
+border:3px dashed;
+margin-right:10px;
+margin-top: 10px;
+}
+
+.bntentra{
+font-size:22px;
+color:#000000;
+background-color:#00ff00;
+height:100px;
+width:100px;
+border:0;
+border-radius:99px;
+box-shadow: 3px 3px 3px 1px #888888;
+margin-left:5px;
+}
+
+.bntentra:hover{
+border:solid 3px;
+border-color:#00FF00;
+}
+
+.bntentra:hover{
+cursor:pointer;
+background-color:#00fA00;
+font-size:80%;
+}
+
+.divMenuTop{
+margin:0px;
+border: 1px solid;
+width:700px;
+height:50px;
+}
+
+/*DIV MENU ADM*/
+
+.divGovGeral{
+border:1px solid;
+width:1280px;
+height:840px;
+margin:0px;
+}
+
+.divMenuAdmTop{
+position:relative;
+width:560px;
+height:30px;
+margin:auto;
+margin-top:0px;
+margin-left:400px;
+padding: 0px;
+float:left;
+
+}
+.divListaAdm{
+width:116px;
+height:30px;
+float:left;
+margin-left:1px;}
+/*LISTA MENU ADM*/
+
+.ulAdm{
+list-style-type:none;
+float:left;
+margin: 0px 0px 0px 0px;
+margin-left:3px;
+padding:8px;
+font-size:18px
+}
+
+.liAdm{
+display:inline;
+padding-left:12px;
+}
+.divTituloDois{
+margin:0px;
+position:absolute;
+width:390px;
+height:100px;
+float:left;
+text-align:center;
+}
+#tituloDois{
+font-size:38px;
+margin:0px;
+margin-top:0px;}
+/*Div principal*/
+.divTituloHum{
+border:0;
+margin:auto;
+margin-top:15%;
+width:390px;
+height:50px;
+text-align:center;
+}
+
+#tx_nome {
+position:relative;
+width:190px;
+height:40px;
+border-radius:5px;
+margin-top:0px;
+margin-left:5px;
+clear:both;
+}
+
+#tx_senha{
+position:relative;
+width:190px;
+height:40px;
+border-radius:5px;
+margin-left:5px;
+clear:both;
+}
+
+#labe{
+width:60px;
+}
+#labe1{
+width:60px;
+position:relative;
+}
+.divLogout{
+clear: both;
+margin:0px;
+text-align: right;
+width:170px;
+height:100px;
+float:right;
+}
+
+hr{
+ width: 940px;   
+ color: #337AB7;
+ background-color: #337AB7;
+ height: 3px;
+}
+
+.tipoPonto{
+    font-size: 22px;
+}
+.mostraPonto{
+    display: inline;
+    
+}
+#titulo {
+    text-align: center;
+    border-bottom: 0;
+    margin-top: 50px;
+}
+.login {
+ border: 9px solid;
+ border-color: darkcyan;
+ width: 220px;
+ height: 250px;
+ margin: auto;
+ margin-top: 10px;
+ background-color: darkblue;
+}
+
+.lab {
+ margin-top:3px;
+ margin-left:5px;
+ font-size: 24px;
+ color: white;
+}
+#btnP {
+ clear:both;
+ float: right;
+ width: 180px;
+ height: 40px;
+ margin-top:20px;
+ margin-right: 14px;   
+}
+.hora {
+ background-color: darkcyan;
+ width: 220px;
+ height: 100px;
+ color: black;
+ font-size: 52px;
+ margin: auto;
+ text-align: center;
+ padding:10px;
+}
+.liPonto{
+    font-size: 28px;
+}
+#btnTop{
+    margin-top:10px;    
+    margin-right: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+#relat{
+    padding: 10px;
+}
+#btnSetor{
+    padding: 10px;
+}
+#pontoMensal{
+    background-color: #afd9ee;
+   width: 76%;
+//    height: 30%;
+    animation: aparece 4s ease-in;
+    -webkit-animation: aparece 4s ease-in;
+    -moz-animation: aparece 4s ease-in;
+}
+
+@keyframes aparece{
+  0%{
+    opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+    
+}
+
+@-webkit-keyframes aparece{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+#pontoMensal2{
+    
+   width: 76%;
+//    height: 30%;
+    animation: aparece 4s ease-in;
+    -webkit-animation: aparece 4s ease-in;
+    -moz-animation: aparece 4s ease-in;
+    margin-left: 9%;
+}
+
+@keyframes aparece{
+  0%{
+    opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+    
+}
+
+@-webkit-keyframes aparece{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.glyphicon-pencil{
+    padding: 4px;
+}
+.tal{
+    text-align: left;
+    width: 30px;
+}
+
+.editU {
+    width: 600px;
+    display: flex;
+    //align-items: center;
+    align-items: left;
+    justify-content: space-between;
+    flex-direction: line;
+    margin: 30px;
+}
+
+editU2 {
+    width: 760px;
+    display: flex;
+    align-items: left;
+    //align-items: left;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 443px;
+}
+.box1 {
+    display: flex;
+    align-items:left;
+    flex-direction: line;
+    flex: 0;
+   
+}
+.box2 {
+    display: flex;
+    align-items: right;
+    flex-direction: line;
+    margin-top: 25px;
+    border: 1px solid;
+}
+.labUser{
+    font-size: 14px;
+    padding: 7px;
+    margin: 3px;
+    margin-top:5px;
+}
+.labUser2{
+    padding: 5px;
+    font-size: 14px;
+    margin: 1px;
+}
+section {
+    //width: 600px;
+    //margin-left: 30px;
+}
+.noBorder{
+    border: 0;
+    
+}
+
+#cancelaUpUser {
+    float: right;
+    //border: 1px solid;
+    width: 10%;
+}
+
+.btnSalvaUser {
+    margin-left: 17px;
+    margin-top: 15px;
+}
+#divPontoMensal2 {
+    border: 1px solid;
+    background-color: #00fA00;
+}
+table {
+    border:#00FF00;
+}
+
+.flashHeader {
+    padding: 8px;
+    height: 40px;
+    background-color: blue;
+    color: darkorange;
+    font-size: 20px;
+    
+}
+
+.logout{
+    float: right;
+    
+}
+
+ul li {
+    
+}
+
+#corpo {
+    width: 300px;
+    height: 120px;
+    //margin-top: 12px;
+}
+
+.cycle-slideshow { 
+    -webkit-perspective: 1000;
+    -webkit-transform-style: preserve-3d;
+    -moz-perspective: 300;
+    -moz-transform-style: preserve-3d;
+    -o-perspective: 1000;
+    -o-transform-style: preserve-3d;
+    perspective: 300;
+    transform-style: preserve-3d;  
+}
+
+img {
+    width: 100px;
+    height: 200px;
+}
+
+#myCarousel {
+    margin-top: 30px;
+    width: 940px;
+    height: 200px;
+}
+
+#links {
+    background-color: #a6e1ec;
+}
+
+.btn {
+    margin-top: 15px;
+    margin-right: 10px;
+}
+
+#rodape {
+    margin-top: 40%;
+}
+
+.rodaInterno {
+    background-color: blue;
+    color: darkorange;
+    padding: 8px;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+}
+select{
+    width: 100%;
+    height: 34px;
+}
