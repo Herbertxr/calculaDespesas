@@ -1,17 +1,22 @@
 ###################
-What is Calcula Despesas
+Calcula Despesas
 ###################
 
-Calcula Despesas é uma aplicação desenvolvida na linguagem de programação PHP
-utilizando o framewordk codeigniter e as bibliotecas: bootstrap, jquery e hightcharts
+Calcula Despesas é uma aplicação desenvolvida na linguagem de programação PHP.
+A aplicação permite que ao usuário cadastrado inserir suas despesas e assim
+conseguir manter um hitórico de seus gastos diversos.
+Com os gráficos que a aplicação disponibilisa o usuário pode ter outras perspectivas
+para avaliar seus gastos
 
 *******************
-Release Information
+Características técnicas
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<http://www.codeigniter.com/download>`_ page.
+CodeIgniter 3.0
+MySql Server 5.6.16
+JQuery 2.1.3
+BootStrap 3.3.1 
+HighCharts 4.1.5
 
 **************************
 Changelog and New Features
