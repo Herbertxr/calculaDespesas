@@ -10,11 +10,11 @@ Com os gráficos que a aplicação disponibiliza ao usuário, é possível outra
 Características técnicas
 *******************
 
-CodeIgniter 3.0<br />
-MySql Server 5.6.16<br />
-JQuery 2.1.3<br />
-BootStrap 3.3.1 
-HighCharts 4.1.5
+CodeIgniter 3.0 - 
+MySql Server 5.6.16 - 
+JQuery 2.1.3 - 
+BootStrap 3.3.1 -  
+HighCharts 4.1.5 - 
 
 **************************
 Changelog and New Features
