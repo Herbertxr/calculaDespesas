@@ -3,7 +3,7 @@ Calcula Despesas
 ###################
 
 Calcula Despesas é uma aplicação desenvolvida na linguagem de programação PHP.
-A aplicação permite ao usuário cadastrado, inserir suas despesas, manter um hitórico de seus gastos diversos.
+A aplicação permite ao usuário cadastrado inserir suas despesas e manter um hitórico de seus gastos diversos.
 Com os gráficos que a aplicação disponibiliza ao usuário, é possível outras perspectivas para avaliar.
 
 *******************
@@ -14,7 +14,7 @@ CodeIgniter 3.0 -
 MySql Server 5.6.16 - 
 JQuery 2.1.3 - 
 BootStrap 3.3.1 -  
-HighCharts 4.1.5 - 
+HighCharts 4.1.5 
 
 **************************
 Changelog and New Features
